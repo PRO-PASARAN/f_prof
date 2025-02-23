@@ -3,7 +3,7 @@
 <template>
    <div>
     <header class="py-4 bg-white sm:py-5" x-data="{expanded: false}">
-        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div class="px-4 mx-auto md:px-6 lg:px-8 max-w-7xl">
             <div class="flex items-center justify-between">
                 <div class="shrink-0">
                     <a href="#" title="" class="">
@@ -29,16 +29,16 @@
                     </a>
                 </div> -->
 
-                <div class="hidden sm:flex sm:items-center sm:justify-end sm:space-x-4 sm:ml-auto">
-                    <a
-                        href="#"
-                        title=""
-                        class="inline-flex items-center justify-center px-6 py-2.5 text-base font-medium text-gray-900 transition-all duration-200 border border-gray-900 rounded-full hover:bg-gray-900 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-ring-900"
-                        role="button"
-                    >
-                        Comming soon
-                    </a>
-                </div>
+                <div class="flex md:flex sm:items-center sm:justify-end sm:space-x-4 sm:ml-auto">
+    <a
+        href="#"
+        title=""
+        class="inline-flex items-center justify-center px-6 py-2.5 text-base font-medium text-gray-900 transition-all duration-200 border border-gray-900 rounded-full hover:bg-gray-900 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-ring-900"
+        role="button"
+    >
+        Comming soon
+    </a>
+</div>
 
               
             </div>
@@ -58,7 +58,7 @@
                             class="inline-flex items-center justify-center px-8 py-4 text-base font-medium text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-xl hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-700"
                             role="button"
                         >
-                             Discover Things (Soon)
+                             Discover Things
                         </a>
                     </div>
                     
