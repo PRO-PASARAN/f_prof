@@ -106,7 +106,7 @@
                                     <p class="text-base font-normal leading-6 text-white">The truth is that the future of technology does not belong to those who innovate first, but to those who innovate consistently.</p>
                                 </blockquote>
                                 <p class="mt-4 text-base font-semibold text-white">Razvan Pasaran</p>
-                                <p class="mt-1 text-sm font-normal text-gray-400">Student</p>
+                                <p class="mt-1 text-sm font-normal text-gray-400">Student - Hackthon lover</p>
                                 <p class="mt-1 text-sm font-normal text-gray-400">Backend Software Developer (Nokia)</p>
                             </div>
                         </div>
