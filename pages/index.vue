@@ -58,9 +58,11 @@
                             class="inline-flex items-center justify-center px-8 py-4 text-base font-medium text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-xl hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-700"
                             role="button"
                         >
-                             Discover Things
+                             Discover Things (Soon)
                         </a>
                     </div>
+                    
+                    
 
                     <ul class="mt-10 space-y-4">
                         <li class="flex items-center">
@@ -105,7 +107,7 @@
                                 </blockquote>
                                 <p class="mt-4 text-base font-semibold text-white">Razvan Pasaran</p>
                                 <p class="mt-1 text-sm font-normal text-gray-400">Student</p>
-                                <p class="mt-1 text-sm font-normal text-gray-400">Software Developer (Nokia)</p>
+                                <p class="mt-1 text-sm font-normal text-gray-400">Backend Software Developer (Nokia)</p>
                             </div>
                         </div>
                     </div>
